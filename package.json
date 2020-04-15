@@ -1,0 +1,14 @@
+{
+  "name": "trail-wind-css",
+  "version": "1.0.0",
+  "description": "simple project using trailwind css",
+  "main": "index.html",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "author": "Bishruti Gope",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.2.0"
+  }
+}
