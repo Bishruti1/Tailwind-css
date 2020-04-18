@@ -1,0 +1,14 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Voopik assignment1",
+  "main": "index.html",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o public/style.css"
+  },
+  "author": "Bishruti Gope",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.2.0"
+  }
+}
